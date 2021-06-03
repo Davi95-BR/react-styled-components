@@ -27,8 +27,6 @@ Ele agrupa corretamente o React no modo de produção e otimiza a construção p
 A compilação é reduzida e os nomes dos arquivos incluem os hashes.
 Seu aplicativo está pronto para ser implantado!
 
-Consulte a seção sobre [implantação] (https://facebook.github.io/create-react-app/docs/deployment) para obter mais informações.
-
 npm run eject
 ** Nota: esta é uma operação unilateral. Depois de ejetar, você não pode voltar! **
 
