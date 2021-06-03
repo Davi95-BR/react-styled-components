@@ -20,7 +20,6 @@ Você também verá quaisquer erros de lint no console.
 
 ### npm test
 Inicia o executor de teste no modo de observação interativo.
-Consulte a seção sobre [testes em execução] (https://facebook.github.io/create-react-app/docs/running-tests) para obter mais informações.
 
 ### npm run build
 Compila o aplicativo para produção na pasta build.
