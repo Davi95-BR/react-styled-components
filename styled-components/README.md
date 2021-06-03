@@ -8,7 +8,7 @@ No diretório do projeto, você pode executar:
 
 ### Caso não tenha baixado o styled components:
 
-### npm install styled-components
+### npm install --save styled-components
 Para aplicar nos componentes 
 
 ### npm start
