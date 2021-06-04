@@ -6,11 +6,11 @@ import { GlobalStyle } from "./Components/GlobalStyle";
 
 function App() {
   return (
-    <>
+    <nav>
       <GlobalStyle />
       <Cabecalho />
       <Container />
-    </>
+    </nav>
   );
 }
 
