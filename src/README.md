@@ -13,6 +13,7 @@ No diretório do projeto, você pode executar:
 ### npm install --save styled-components
 Para aplicar nos componentes 
 
+## Iniciando o localhost
 ### npm start
 Executa o aplicativo no modo de desenvolvimento.
 Abra [http: // localhost: 3000] (http: // localhost: 3000) para visualizá-lo no navegador.
