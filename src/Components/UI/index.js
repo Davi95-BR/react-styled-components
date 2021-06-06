@@ -1,4 +1,5 @@
 import styled from 'styled-components'
+import { corPrimaria, fundoClaro } from "../UI/variaveis";
 
 export const Icone = styled.img` height: 25px;
 width: 25px;
@@ -24,13 +25,17 @@ export const Botao = styled.button`
     margin: 15px auto 0px auto;
     display: block;
     border-radius: 20px;
-    background-color: #41d3be;
+    background:${props => props.primary ? corPrimaria : fundoClaro };
+    color:${props => props.primary ? fundoClaro : corPrimaria};
     border: none;
-    color: white;
     font-weight: 600;
     font-size: 14px;
-    padding: 8px 20px;
+    padding: 8px 10px;
     cursor: pointer;
+
+    &:hover {
+        color: darkgreen;
+    }
 `;
 
 
@@ -43,4 +48,8 @@ export const Detalhe = styled.span`
 export const Saldo = styled.div`
     font-weight: 700;
     font-size: 32px;
+
+    &:hover {
+        color: darkgreen;
+    }
 `;

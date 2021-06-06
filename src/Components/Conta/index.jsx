@@ -8,7 +8,7 @@ import {Icone, Box, Botao, Detalhe, Saldo} from '../UI/index.js'
 
 
 const IconeMargin = styled(Icone)`
- marginTop: "2px"
+  marginTop: "2px"
 `;  //Herança de um estilo, que no caso é da const Icone e adicionando um plus
 
 const Conta = () => {
@@ -33,7 +33,7 @@ const Conta = () => {
         ) : null}
       </div>
 
-      <Botao onClick={toggleHandler}>
+      <Botao primary onClick={toggleHandler}>
         <IconeMargin
           src={toggleState ? privado : olho_icone}
           alt="Privacidade do Saldo"
