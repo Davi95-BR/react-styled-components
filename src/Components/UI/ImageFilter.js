@@ -1,9 +1,9 @@
 import React from 'react';
-import alimentacao from '../../assets/images/alimentacao.svg'
-import outros from '../../assets/images/outros.svg'
-import saude from '../../assets/images/saude.svg'
-import transporte from '../../assets/images/transporte.svg'
-import utilidades from  '../../assets/images/utilidades.svg'
+import alimentacao from '../../assets/imagens/alimentacao.svg'
+import outros from '../../assets/imagens/outros.svg'
+import saude from '../../assets/imagens/saude.svg'
+import transporte from '../../assets/imagens/transporte.svg'
+import utilidades from  '../../assets/imagens/utilidades.svg'
 import { Icone } from '../UI/index'
 
  const ImageFilter = (type) => {

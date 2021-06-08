@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import styled from "styled-components";
 
-import privado from "../../assets/images/privado.svg";
-import olho_icone from "../../assets/images/olho.svg";
-import dinheiro from "../../assets/images/dinheiro.svg";
+import privado from "../../assets/imagens/privado.svg";
+import olho_icone from "../../assets/imagens/olho.svg";
+import dinheiro from "../../assets/imagens/dinheiro.svg";
 import {Icone, Box, Botao, Detalhe, Saldo} from '../UI/index.js'
 
 

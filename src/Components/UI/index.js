@@ -57,9 +57,10 @@ export const BtnTema = styled.button`
   position: absolute;
   top: 4vh;
   right: 20px;
-  background-color: inherit;
+  background-color: ${corPrimaria};
   border: none;
   cursor: pointer;
+ 
 
   &:hover {
     color: ${verdeEscuro};
