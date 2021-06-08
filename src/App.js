@@ -9,7 +9,7 @@ import { temaEscuro, temaClaro } from "./Components/UI/temas";
 
 function App() {
   return (
-      <ThemeProvider theme={temaEscuro}>
+      <ThemeProvider theme={temaClaro}>
         <GlobalStyle />
         <Cabecalho />
         <Container />
