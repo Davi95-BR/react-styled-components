@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { corPrimaria, fundoClaro } from "../UI/variaveis";
+import { corPrimaria, fundoClaro } from "./variaveis";
 
 export const Icone = styled.img` height: 25px;
 width: 25px;
