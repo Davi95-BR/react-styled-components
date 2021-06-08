@@ -1,4 +1,5 @@
 export const corPrimaria = "#41D3BE";
+export const verdeEscuro =  "#006400"
 
 export const fundoClaro = "#F1F1F1";
 export const fundoEscuro = "#363537";
