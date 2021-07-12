@@ -34,7 +34,7 @@ const Cabecalho = () => {
       <Logo src={bank_logo} alt="Logo Smart Bank" />
       <div>
         <BtnCabecalho primary href="https://google.com">
-          Ajuda
+          Ajudaa
         </BtnCabecalho>
         <BtnCabecalho href="https://google.com">Sair</BtnCabecalho>
       </div>
