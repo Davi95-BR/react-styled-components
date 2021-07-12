@@ -33,9 +33,8 @@ const Cabecalho = () => {
     <StyledCabecalho>
       <Logo src={bank_logo} alt="Logo Smart Bank" />
       <div>
-        <BtnCabecalho primary href="https://google.com">
-          Ajuda
-          </BtnCabecalho>
+        <BtnCabecalho primary href="https://google.com"> Ajuda</BtnCabecalho>
+        <BtnCabecalho primary href="https://google.com">Consultar contratações</BtnCabecalho>
         <BtnCabecalho href="https://google.com">Sair</BtnCabecalho>
       </div>
     </StyledCabecalho>
