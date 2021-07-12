@@ -12,7 +12,7 @@ const Extrato = () => {
         );
       })
       }
-      <Botao primary>Extrato de 10 a 30 dias</Botao>
+      <Botao primary>Extrato de 10 á 30 dias</Botao>
     </Box>
   );
 };
